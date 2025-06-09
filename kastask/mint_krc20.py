@@ -1,0 +1,1 @@
+def mint(token, amount): return True

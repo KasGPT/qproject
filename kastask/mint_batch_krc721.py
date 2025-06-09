@@ -1,0 +1,1 @@
+def mint_batch(owner, nft_data): return True

@@ -1,0 +1,1 @@
+def swap(tokenA, tokenB, amount): return True

@@ -1,0 +1,1 @@
+def mint_stablecoin(amount): return True

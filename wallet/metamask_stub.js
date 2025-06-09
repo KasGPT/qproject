@@ -1,0 +1,1 @@
+// Kaspa + MetaMask compatibility layer

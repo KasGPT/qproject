@@ -1,0 +1,1 @@
+def derive_pda(seed): return 'pda_' + seed[::-1]

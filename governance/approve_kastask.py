@@ -1,0 +1,1 @@
+def approve_kastask(task_id): return True

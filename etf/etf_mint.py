@@ -1,0 +1,1 @@
+def mint_etf(bundle): return 'etf_token_xyz'

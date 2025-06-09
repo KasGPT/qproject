@@ -1,0 +1,1 @@
+def execute(task): print(f'Executing KASTASK: {task}')
